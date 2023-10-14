@@ -1,3 +1,3 @@
 # dio-java-basico
-Repositório para armazenar todo o conteúdo do curso de Java Básico
-Aletrando o conteúdo de um arquivo de forma local, aula, teste.
+Repositório para exemplos do curso de Java Básico pela DIO
+
