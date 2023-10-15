@@ -1,5 +1,5 @@
 public class SmartTv {
-    
+    // todas as três variáveis, são variaveis de CLASSE:
     boolean ligada=false;
     
     int canal=1;
@@ -13,8 +13,9 @@ public class SmartTv {
         ligada=false;
     }
 
-    public void mudarCanal( int novocanal){
+    public void mudarCanal(int novocanal){
         canal = novocanal;
+        // a variável novocanal, se trata de uma variavel de BLOCO/GRUPO.
     }
     
     public void aumentarCanal(){
