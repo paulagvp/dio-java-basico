@@ -14,7 +14,7 @@ public class ContaTerminal{
             System.out.println("Por favor, digite o número da sua conta: ");
             int numero = scanner.nextInt();
             
-            System.out.println("Por favor, digite o seu saldo, utilizando . para a parte decimal: ) ");
+            System.out.println("Por favor, digite o seu saldo, utilizando . para a parte decimal: ");
             double saldo = scanner.nextDouble();
             
 
