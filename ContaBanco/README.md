@@ -2,7 +2,7 @@
 
 Projeto relativo ao desafio de projeto: Simulando uma conta bancária através do terminal/console
 
-## Folder Structure
+## Localização do arquivo
 
 O códido do desafio realizado com a linguagem JAVA e auxílio do IDE VSCode encontra-se na pasta:
 
