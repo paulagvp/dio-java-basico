@@ -1,4 +1,4 @@
-package CondicionalmenteRico;
+
 
 import java.util.Scanner;
 
